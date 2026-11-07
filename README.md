@@ -1,5 +1,7 @@
 # OpenWrt Firmware for NXP LS1046A-RDB
 
+> 交流群：778213624/339426057/1063542188
+
 OpenWrt SD card boot firmware with ext4 rootfs for the NXP Layerscape LS1046A-RDB board.
 
 ## Files
